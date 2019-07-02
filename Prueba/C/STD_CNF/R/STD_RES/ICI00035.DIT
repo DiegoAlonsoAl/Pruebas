@@ -1,0 +1,28 @@
+(*
+T: PROGRAM Main
+FW: NO
+CI#: 35
+QSL: 3
+QVE: 3
+QVPC: 3
+QPar: 0
+QFBI: 1
+*)
+@V 1 6 0
+Contador	1	VAR	@TYP:10
+		     
+@TYP:10# 0.00000000E+000
+;
+
+@V 1 7 0
+TON_1	2	VAR	@FB:36
+		     
+
+;
+
+@V 1 8 0
+Flag	3	VAR	@TYP:1
+		     
+
+;
+

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <IPPNIO xsi:noNamespaceSchemaLocation="IPPNIO.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Version>
-		<UUID ExCRC="1">80436223D8EC4B8B88ED0EDC03632124</UUID>
-		<CfgBrokerVersion>18.630.0.2509</CfgBrokerVersion>
-		<CRC CRCVal="4294892052" ExCRC="1"></CRC>
+		<UUID ExCRC="1">514B954578554983AF255A644BC45BAF</UUID>
+		<CfgBrokerVersion>18.630.0.2519</CfgBrokerVersion>
+		<CRC CRCVal="3864494577" ExCRC="1"></CRC>
 	</Version>
 	<CtlrParas>
 		<CtlrIP d1="192" d2="168" d3="0" d4="2" ExCRC="1"></CtlrIP>
