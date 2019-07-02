@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AXLDiag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AXLDiag.xsd" Version="1.00"><Controller><IPAddress d1="192" d2="168" d3="0" d4="2"/><SubnetMask d1="255" d2="255" d3="255" d4="0"/><DefaultGateway d1="0" d2="0" d3="0" d4="0"/><DNSName>axc-30503</DNSName><StationName></StationName><ModuleEquipmentId></ModuleEquipmentId><DeviceName></DeviceName><FdcmlFileName>ETHERNET\Phoenix Contact\AXC_3050_dtmv01_5.60.xml</FdcmlFileName><Modules/></Controller></AXLDiag>

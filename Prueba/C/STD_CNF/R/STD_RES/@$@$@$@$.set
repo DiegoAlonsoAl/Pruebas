@@ -1,0 +1,21 @@
+[ONL]
+PERMANENT_AS_BOOTPROJECT=1
+[Online]
+Include_Bootproject_001=.\_s49AXL\PNDEV1.xml
+Include_Bootproject_002=.\_s49AXL\config.svc
+Include_Bootproject_003=.\_s49AXL\Data.INI
+Include_Bootproject_004=.\_s49PNIO\PNIO.INI
+Include_Bootproject_005=.\_s49PNIO\ippnio.xml
+Include_Bootproject_006=.\_s49PNIO\ippnio.zip
+Include_Bootproject_007=.\_s49PNIO\Project.ini
+PreDownLoadProject_001=.\_s49AXL\PNDEV1.xml
+PreDownLoadProject_002=.\_s49AXL\config.svc
+PreDownLoadProject_003=.\_s49AXL\Data.INI
+PreDownLoadProject_004=.\_s49PNIO\PNIO.INI
+PreDownLoadProject_005=.\_s49PNIO\ippnio.xml
+PreDownLoadProject_006=.\_s49PNIO\ippnio.zip
+PreDownLoadProject_007=.\_s49PNIO\Project.ini
+PreDownLoadBootproject_001=.\_s49AXL\AXLDiag.zip
+PreDownLoadBootproject_002=.\_s49AXL\Project.ini
+PreDC_UploadFile_001=Data.INI .\_s49AXL\old\Data.INI
+PreDC_UploadFile_002=PNIO.INI .\_s49PNIO\old\PNIO.INI
