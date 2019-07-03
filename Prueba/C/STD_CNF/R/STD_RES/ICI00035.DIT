@@ -2,9 +2,9 @@
 T: PROGRAM Main
 FW: NO
 CI#: 35
-QSL: 3
-QVE: 3
-QVPC: 3
+QSL: 4
+QVE: 4
+QVPC: 4
 QPar: 0
 QFBI: 1
 *)
@@ -22,6 +22,12 @@ TON_1	2	VAR	@FB:36
 
 @V 1 8 0
 Flag	3	VAR	@TYP:1
+		     
+
+;
+
+@V 1 9 0
+Suma	4	VAR	@TYP:10
 		     
 
 ;
