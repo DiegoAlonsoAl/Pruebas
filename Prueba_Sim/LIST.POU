@@ -1,1 +1,2 @@
+FUNCTION	Contador			PT=1	Contador	HIDDEN=0	<1>
 PROGRAM	Main			PT=1	Main	HIDDEN=0	
