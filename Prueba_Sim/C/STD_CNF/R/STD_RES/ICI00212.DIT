@@ -2,9 +2,9 @@
 T: PROGRAM Main
 FW: NO
 CI#: 212
-QSL: 6
-QVE: 6
-QVPC: 6
+QSL: 4
+QVE: 4
+QVPC: 4
 QPar: 0
 QFBI: 1
 *)
@@ -15,32 +15,20 @@ TON_1	1	VAR	@FB:210
 ;
 
 @V 1 7 0
-Cont_Ini	2	VAR	@TYP:3
-		     
-@TYP:3# 00#0000
-;
-
-@V 1 8 0
-Contador	3	VAR	@TYP:3
+Contador	2	VAR	@TYP:3
 		     
 @TYP:3# 00#0001
 ;
 
+@V 1 8 0
+Tiempo	3	VAR	@TYP:12
+		     
+
+;
+
 @V 1 9 0
-Tiempo	4	VAR	@TYP:12
+Suma	4	VAR	@TYP:1
 		     
 
 ;
 
-@V 1 10 0
-Suma	5	VAR	@TYP:1
-		     
-
-;
-
-@V 2 42 0
-Main@0000F	6	VAR	@TYP:3
-		     
-
-;
-PFW: RDT
